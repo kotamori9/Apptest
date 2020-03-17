@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 森中
 kshima
+
+izumisawa
